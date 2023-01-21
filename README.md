@@ -1,8 +1,8 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px" /></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
-        width="30px">, I'm Asheesh Gupta</h1>
-<h3 align="center">I'm a Java backend developer passionate about building digital products</h3>
+        width="30px">, I'm Vijay Pandit</h1>
+<h3 align="center">I'm a Front end developer passionate about building digital products</h3>
 
 
 ## 🙋‍♂️ About Me
@@ -13,11 +13,11 @@
 
 - 💞️ I’m looking to work with a organization where I can improve my professional as well as personal skills.
 
-- 📫 How to reach me *asheeshgupta029@gmail.com*
+- 📫 How to reach me *vijayppandit2042@gmail.com*
 
-- 📫 Linkdin **https://www.linkedin.com/in/asheesh-gupta-42b045227/**
+- 📫 Linkdin **https://www.linkedin.com/in/vijay-pandit-5424a8236/**
 
-- 📫Portfolio **https://asheesh-gupta-portfolio.netlify.app/**
+- 📫Portfolio **https://vijay-pandit-portfolio.netlify.app/**
 
 ## 🚀 Languages and Tools:
 
@@ -55,7 +55,7 @@
 
 ## 📊 My Github Stats
 <br />
-<a href="https://github.com/asheesh2025/github-readme-stats"><img alt="Asheesh Gupta Github Stats"
+<a href="https://github.com/asheesh2025/github-readme-stats"><img alt="Vijay Pandit Github Stats"
         src="https://github-readme-stats.vercel.app/api?username=asheesh2025&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <a href="https://github.com/asheesh2025/github-readme-stats"><img alt="asheesh gupta Top Languages"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=asheesh2025&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
