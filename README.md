@@ -46,23 +46,23 @@
 ## 📊 My Github Contributes
 
 <p align="left">
-    <a href="https://github.com/asheesh2025/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="asheesh gupta streak"
-            src="https://github-readme-streak-stats.herokuapp.com/?user=asheesh2025&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" />
+    <a href="https://github.com/vijay4211/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="vijay pandit streak"
+            src="https://github-readme-streak-stats.herokuapp.com/?user=vijay4211&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" />
     </a>
 </p>
 
 
 ## 📊 My Github Stats
 <br />
-<a href="https://github.com/asheesh2025/github-readme-stats"><img alt="Vijay Pandit Github Stats"
-        src="https://github-readme-stats.vercel.app/api?username=asheesh2025&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<a href="https://github.com/asheesh2025/github-readme-stats"><img alt="asheesh gupta Top Languages"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=asheesh2025&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/vijay4211/github-readme-stats"><img alt="Vijay Pandit Github Stats"
+        src="https://github-readme-stats.vercel.app/api?username=vijay4211&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/vijay4211/github-readme-stats"><img alt="vijay pandit Top Languages"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijay4211&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <!-- <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-
+ 
 <br/> -->
 
 
@@ -70,5 +70,5 @@
 
 <br />
 
-<a href="https://github.com/asheesh2025/github-readme-activity-graph"><img alt="asheesh gupta Activity Graph"
-        src="https://activity-graph.herokuapp.com/graph?username=asheesh2025&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/vijay4211/github-readme-activity-graph"><img alt="vijay pandit Activity Graph"
+        src="https://activity-graph.herokuapp.com/graph?username=vijay4211&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
